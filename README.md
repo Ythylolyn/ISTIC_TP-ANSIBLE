@@ -1,5 +1,7 @@
 Objectif : déployer une application ansible sur 2 vms
 
+PS : tache dans la branche secondaire.
+
 Memento : 
 Building a simple LAMP stack and deploying Application using Ansible Playbooks.
 -------------------------------------------
